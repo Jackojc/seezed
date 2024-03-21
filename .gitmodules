@@ -1,0 +1,9 @@
+[submodule "deps/conflict"]
+	path = deps/conflict
+	url = https://github.com/qookei/conflict
+[submodule "deps/fmt"]
+	path = deps/fmt
+	url = https://github.com/fmtlib/fmt
+[submodule "deps/libremidi"]
+	path = deps/libremidi
+	url = https://github.com/celtera/libremidi
